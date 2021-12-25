@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operations", "Operations\Operations.csproj", "{511F6005-1F0F-452F-A353-780E634FE2CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals", "Animals\Animals.csproj", "{E3A3617D-53F0-4462-8C60-000B238230AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{64DAF205-CB76-4EAB-89B8-C2C5BF1343A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{511F6005-1F0F-452F-A353-780E634FE2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511F6005-1F0F-452F-A353-780E634FE2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511F6005-1F0F-452F-A353-780E634FE2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511F6005-1F0F-452F-A353-780E634FE2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A3617D-53F0-4462-8C60-000B238230AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A3617D-53F0-4462-8C60-000B238230AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A3617D-53F0-4462-8C60-000B238230AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A3617D-53F0-4462-8C60-000B238230AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64DAF205-CB76-4EAB-89B8-C2C5BF1343A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DAF205-CB76-4EAB-89B8-C2C5BF1343A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DAF205-CB76-4EAB-89B8-C2C5BF1343A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DAF205-CB76-4EAB-89B8-C2C5BF1343A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C42A6F-19D6-48CA-A23F-406459131A59}
+	EndGlobalSection
+EndGlobal
