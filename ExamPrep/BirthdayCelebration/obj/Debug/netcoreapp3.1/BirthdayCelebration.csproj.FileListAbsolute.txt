@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.exe
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.deps.json
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.dll
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.pdb
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.dll
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.pdb
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.genruntimeconfig.cache

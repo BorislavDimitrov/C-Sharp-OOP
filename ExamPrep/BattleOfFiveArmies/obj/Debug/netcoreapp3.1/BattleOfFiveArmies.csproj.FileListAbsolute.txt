@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\bin\Debug\netcoreapp3.1\BattleOfFiveArmies.exe
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\bin\Debug\netcoreapp3.1\BattleOfFiveArmies.deps.json
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\bin\Debug\netcoreapp3.1\BattleOfFiveArmies.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\bin\Debug\netcoreapp3.1\BattleOfFiveArmies.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\bin\Debug\netcoreapp3.1\BattleOfFiveArmies.dll
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\bin\Debug\netcoreapp3.1\BattleOfFiveArmies.pdb
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\obj\Debug\netcoreapp3.1\BattleOfFiveArmies.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\obj\Debug\netcoreapp3.1\BattleOfFiveArmies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\obj\Debug\netcoreapp3.1\BattleOfFiveArmies.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\obj\Debug\netcoreapp3.1\BattleOfFiveArmies.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\obj\Debug\netcoreapp3.1\BattleOfFiveArmies.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\obj\Debug\netcoreapp3.1\BattleOfFiveArmies.dll
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\obj\Debug\netcoreapp3.1\BattleOfFiveArmies.pdb
+C:\Users\Borislav-PC\source\repos\ExamPreparation\BattleOfFiveArmies\obj\Debug\netcoreapp3.1\BattleOfFiveArmies.genruntimeconfig.cache
